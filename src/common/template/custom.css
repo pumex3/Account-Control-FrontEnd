@@ -1,0 +1,7 @@
+.main-footer {
+    position: fixed;
+    bottom:0px;
+    width:85%;
+    display: flex;
+    justify-content: center;
+}
